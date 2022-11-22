@@ -1,4 +1,4 @@
-Please visit the [Set Self-Buffs](https://habitica.fandom.com/wiki/Set_Self-Buffs) Habitica Wiki page for code and setup instructions.
+Please visit the [Set Self-Buffs](https://habitica.fandom.com/wiki/Set_Self-Buffs) Habitica Wiki page for detailed setup instructions.
 
 ## Summary
 
