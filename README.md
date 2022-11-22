@@ -1,6 +1,6 @@
 Please visit the [Set Self-Buffs](https://habitica.fandom.com/wiki/Set_Self-Buffs) Habitica Wiki page for code and setup instructions.
 
-#Summary
+==Summary==
 
 Set Self-Buffs allows a user to modify their stat (STR, INT, CON, PER) buff values to any custom value without affecting the buffs of others in their party.
 
