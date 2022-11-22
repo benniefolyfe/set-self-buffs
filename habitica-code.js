@@ -26,9 +26,9 @@ const Create_Set_Intelligence_Button = 1 // Change this 1 to a 0 if you do not w
 const Create_Set_Constitution_Button = 1 // Change this 1 to a 0 if you do not want a reward button that updates consitution buffs.
 const Create_Set_Perception_Button = 1 // Change this 1 to a 0 if you do not want a reward button that updates perception buffs.
 
-/**********************************************\
- *  No need to edit anything below this line.  *
-\**********************************************/
+/*********************************************\
+*  No need to edit anything below this line.  *
+\*********************************************/
 
 // The below functions set stat buffs at the values you input. 
 
