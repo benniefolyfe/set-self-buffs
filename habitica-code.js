@@ -1,6 +1,6 @@
-/****************************************************\
- *  Set Self-Buffs (Habitica) v1.0 by @benniefolyfe  *
-\****************************************************/
+/***************************************************\
+*  Set Self-Buffs (Habitica) v1.0 by @benniefolyfe  *
+\***************************************************/
 
 // Add your user ID and API token in this section. Leave the quotation marks and remove the brackets.
 
