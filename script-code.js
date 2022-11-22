@@ -1,6 +1,6 @@
-/****************************************************\
- *  Set Self-Buffs (Habitica) v1.0 by @benniefolyfe  *
-\****************************************************/
+/***************************************************\
+*  Set Self-Buffs (Habitica) v1.0 by @benniefolyfe  *
+\***************************************************/
 
 // Add your user ID and API token in this section. Leave the quotation marks and remove the brackets.
 
@@ -14,9 +14,9 @@ var Intelligence = 100
 var Constitution = 100
 var Perception = 100
 
-/**********************************************\
- *  No need to edit anything below this line.  *
-\**********************************************/
+/*********************************************\
+*  No need to edit anything below this line.  *
+\*********************************************/
 
 // The below functions set stat buffs at the values you input. 
 
