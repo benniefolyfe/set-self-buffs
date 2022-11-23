@@ -1,5 +1,5 @@
 /***************************************************\
-*  Set Self-Buffs (Habitica) v1.0 by @benniefolyfe  *
+*  Set Self-Buffs (Habitica) v1.1 by @benniefolyfe  *
 \***************************************************/
 
 // Add your user ID and API token in this section. Leave the quotation marks and remove the brackets.
@@ -49,10 +49,14 @@ function set_perception () {
 
 // Sets parameters.
 
+const Script_Name = "Set Self-Buffs (Script)"
+const Author_ID = "377a4d3d-c55c-48b8-9bf8-59b97480daf8"
+
 function api_updateUser(payload) { 
   var params = {
     "method": "put",
     "headers": {
+      "x-client": Author_ID + " - " + Script_Name,
       "x-api-user": User_ID,
       "x-api-key": API_Token,
     } ,
