@@ -32,7 +32,7 @@ const Create_Set_Perception_Button = 1 // Change this 1 to a 0 if you do not wan
 
 // The below functions set stat buffs at the values you input. 
 
-const Script_Name = "Set Self-Buffs"
+const Script_Name = "Set Self-Buffs (Habitica)"
 const Author_ID = "377a4d3d-c55c-48b8-9bf8-59b97480daf8"
 const Headers = {
   "x-client": Author_ID + " - " + Script_Name,
