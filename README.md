@@ -6,7 +6,7 @@ Set Self-Buffs allows a user to modify their stat (STR, INT, CON, PER) buff valu
 
 There are two versions of this add-on:
 
-1. **Set Self-Buffs (Script)**: This version is a manually-driven script, which means it is run in Google Script app rather than through the Habitica user interface.
+1. **Set Self-Buffs (Script)**: This version is a manually-driven script, which means it is run in Google Apps Script rather than through the Habitica user interface.
 2. **Set Self-Buffs (Habitica)**: This version is an event-driven script, which means it creates reward task buttons in your Habitica user interface.
 
 ## Tips
