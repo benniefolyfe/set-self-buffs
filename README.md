@@ -2,7 +2,7 @@ Please visit the [Set Self-Buffs](https://habitica.fandom.com/wiki/Set_Self-Buff
 
 ## Summary
 
-Set Self-Buffs allows a user to modify their stat (STR, INT, CON, PER) buff values to any custom value without affecting the buffs of others in their party.
+Set Self-Buffs allows a user to modify their stat (STR, INT, CON, PER) buff values to any custom value without affecting the buffs of others in their party. It can be run as often as needed during the day to modify buffs or set them back to a baseline value.
 
 There are two versions of this add-on:
 
